@@ -13,10 +13,10 @@ World Tamer 简体中文汉化补丁 by Lenten
 
 两个文件都在同一个 Release 的 Assets 里，认文件名里的 **`Smooth`**（流畅）和 **`Deep`**（深度）。
 
-| 版本 | 特点 | 文件 |
-| --- | --- | --- |
-| **流畅翻译**<br>（正式版，推荐） | 只替换文本，未改菜单界面，理论上没有 bug | **[WorldTamer-ZH-v0.43.0-Smooth.zip](https://github.com/coten73/WorldTamerCNTr/releases/download/v0.43.0-zh/WorldTamer-ZH-v0.43.0-Smooth.zip)**<br>1.73 MB |
-| **深度翻译**<br>（实验性） | 额外修改了菜单界面，**bug 数量与严重性未知，介意勿用** | **[WorldTamer-ZH-v0.43.0-Deep.zip](https://github.com/coten73/WorldTamerCNTr/releases/download/v0.43.0-zh/WorldTamer-ZH-v0.43.0-Deep.zip)**<br>21.9 MB |
+| 版本 | 特点 |
+| --- | --- |
+| **流畅翻译**<br>（正式版，推荐） | 只替换文本，未改菜单界面，理论上没有 bug |
+| **深度翻译**<br>（实验性） | 额外修改了菜单界面，**bug 数量与严重性未知，介意勿用** |
 
 两者文本内容基本一致，**选一个装即可，不要同时装两个**。
 
