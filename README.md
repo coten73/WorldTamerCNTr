@@ -3,7 +3,8 @@ World Tamer Chinese/CN translation by Lenten
 ## 授权范围
 
 本仓库中由译者原创的内容（forcechange.rpy、replace_cn.rpy、name.rpy
-及全部翻译文本）采用 XXXX 授权。
+及全部翻译文本）采用 CC BY-NC-SA 4.0（署名-非商业性使用-相同方式共享
+4.0 国际）授权，全文见仓库根目录 LICENSE。
 
 以下为第三方内容，不在上述授权范围内：
 
