@@ -1,0 +1,79 @@
+字体许可声明 / Font License Notice
+======================================================================
+
+本目录下的字体文件 NotoSerifCJKsc-Bold.otf 的版权与许可以下。
+以下信息由字体文件自身的 name 表（版权 / 商标 / 许可字段）读出，与文件内嵌内容一致。
+
+  字体名称 : Noto Serif CJK SC Bold
+  字体版本 : Version 2.003
+  版权归属 : © 2017-2024 Adobe (http://www.adobe.com/)
+  商标     : Noto is a trademark of Google Inc.
+  发行方   : Adobe / Google Noto 项目
+  项目地址 : https://github.com/notofonts/noto-cjk
+  许可协议 : SIL Open Font License, Version 1.1
+  协议全文 : 见本目录 OFL.txt
+  协议地址 : https://scripts.sil.org/OFL
+
+  设计者   : Ryoko NISHIZUKA 西塚涼子 (假名与汉字)
+             Frank Grießhammer (拉丁、希腊、西里尔字母)
+             Wenlong ZHANG 张文龙 (注音符号)
+             Sandoll Communications 산돌커뮤니케이션, Soohyun PARK,
+             Yejin WE, Donghoon HAN (韩文字母与音节)
+  制作     : Dr. Ken Lunde (项目架构、字形集定义与整体制作)
+             Masataka HATTORI 服部正貴 (制作与汉字部件)
+             Zachary Quinn Scheurer (可变字体与整体制作)
+
+----------------------------------------------------------------------
+OFL.txt 的来源
+----------------------------------------------------------------------
+
+上游仓库 notofonts/noto-cjk 里，Serif/ 和 Sans/ 各有一份 LICENSE，
+两份内容**完全相同**（仓库根目录没有 LICENSE 文件）：
+
+    https://github.com/notofonts/noto-cjk/blob/main/Serif/LICENSE
+    https://github.com/notofonts/noto-cjk/blob/main/Sans/LICENSE
+
+所以取哪一份都可以。本目录的 OFL.txt 就是这两份的内容（原样）。
+以后要从上游更新，直接覆盖 OFL.txt 即可，不必区分 Serif / Sans。
+
+注意：这两份 LICENSE 文件里**既没有版权行，也没有声明保留字体名**。
+版权与保留字体名的信息写在**字体文件自己的 name 表**里：
+
+    本目录分发的字体 : © 2017-2024 Adobe (http://www.adobe.com/).   （无保留字体名）
+    游戏自带的黑体   : (c) 2014-2021 Adobe (http://www.adobe.com/),
+                       with Reserved Font Name 'Source'.
+
+----------------------------------------------------------------------
+OFL 1.1 允许做什么
+----------------------------------------------------------------------
+
+可以免费使用、研究、复制、合并、嵌入、修改、再分发，也可以随软件一起
+分发和销售（商业软件也可以）。不需要付费，也不需要公开你的源码。
+
+----------------------------------------------------------------------
+必须满足的条件
+----------------------------------------------------------------------
+
+  1. 字体本身不得单独出售（随软件一起分发/销售是可以的）。
+  2. 每一份副本都必须附带上面的版权声明和 OFL 许可证全文。
+     也就是本目录的 OFL.txt 必须跟着字体一起走。
+  3. 修改后的版本不得使用「保留字体名」(Reserved Font Name)。
+  4. 不得用版权人或作者的名义为修改版做推广或背书。
+  5. 字体（含修改版）必须继续以 OFL 分发，不得改成其它协议。
+     注意：用该字体排版出来的文档、图片、以及本翻译项目本身，不受此限制。
+
+----------------------------------------------------------------------
+本项目的实际情况
+----------------------------------------------------------------------
+
+- 本目录里的 NotoSerifCJKsc-Bold.otf 是**原版未修改**文件，文件名和字体
+  内部名称都没有改过，不涉及任何改名问题。
+- 如果你以后为了减小体积对它做**子集化 (subset) 或任何修改**，它就变成了
+  Modified Version。本字体内嵌的版权行后面**没有**声明保留字体名，所以
+  OFL 层面不强制改名；但「Noto」是 Google 的商标，修改版继续叫 Noto 有
+  商标风险，建议换成自定义名称，并务必继续附带 OFL.txt 与本声明。
+- 游戏本体自带的 fonts/NotoSansSC-SemiBold.ttf、NotoSansJP-SemiBold.ttf、
+  NotoSansKR-SemiBold.ttf 属于黑体分支，其内嵌版权行带
+  `with Reserved Font Name 'Source'`。若以后要随包分发这三个字体，必须
+  遵守该保留字体名限制（修改版不能再用 'Source'），并同样附带 OFL.txt。
+  目前本翻译包不打包这三个字体，只引用游戏自带的，所以无需为它们额外附声明。

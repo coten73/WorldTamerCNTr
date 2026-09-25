@@ -1,0 +1,6 @@
+26-09-10
+修复forcechange的bug
+09-12
+优化了部分名字翻译
+09-15
+修复forcechange的大量bug
