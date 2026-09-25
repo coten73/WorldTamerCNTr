@@ -9,7 +9,7 @@ World Tamer 简体中文汉化补丁 by Lenten
 
 ---
 
-## 下载
+## 下载 & 两个版本的区别
 
 两个文件都在同一个 Release 的 Assets 里，认文件名里的 **`Smooth`**（流畅）和 **`Deep`**（深度）。
 
@@ -22,24 +22,17 @@ World Tamer 简体中文汉化补丁 by Lenten
 
 
 ## 安装
+1. 解压，把 `chinese_simp` 文件夹整个放进游戏的 `game/tl/` 目录
+2. 启动游戏，Language选「CN旗」
 
-1. 下载并解压 zip
-2. 把里面的 `chinese_simp` 文件夹整个复制到游戏的 `game/tl/` 目录下
-   （最终路径应为 `游戏目录/game/tl/chinese_simp/`）
-3. 启动游戏，在Language选择里选「CN旗」
-
-如果 `game/tl/` 下已经有旧的 `chinese_simp`，**先删掉再复制**。
+## 升级/替换
+1. 把旧`chinese_simp`文件夹一整个删除
+2. 直接解压然后导入原位置即可
 
 **安卓版**：因为涉及重新签名，暂时不适用。请等开发者把汉化编译进下个版本的安装包，
 或者自行编译。
+`<del>考虑自己导一个然后临时分享</del>`
 
-## 两个版本的区别
-
-| | 流畅翻译 | 深度翻译 |
-| --- | --- | --- |
-| 菜单界面 | 未修改 | 有修改 |
-| 稳定性 | 理论上没有 bug | bug 数量与严重性未知 |
-| 自带字体 | 无（用游戏本体内置的 Noto Sans SC） | 有（Noto Serif CJK SC Bold，约 25 MB） |
 
 ## 已知问题
 
