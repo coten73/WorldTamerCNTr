@@ -20,11 +20,6 @@ World Tamer 简体中文汉化补丁 by Lenten
 
 两者文本内容基本一致，**选一个装即可，不要同时装两个**。
 
-也可以直接进 [Releases 页面](https://github.com/coten73/WorldTamerCNTr/releases/tag/v0.43.0-zh)，
-在最下面的 Assets 里下载。
-
-> 文件名带版本号，所以上面的直链在换版本后会失效。
-> 如果打不开，请到 [Releases](https://github.com/coten73/WorldTamerCNTr/releases) 拿最新版。
 
 ## 安装
 
