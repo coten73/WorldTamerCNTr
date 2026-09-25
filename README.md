@@ -1,5 +1,6 @@
 # WorldTamerCNTr
 World Tamer Chinese/CN translation by Lenten
+📦 [下载最新版](../../releases/latest)[Download]
 ## 授权范围
 
 本仓库中由译者原创的内容（forcechange.rpy、replace_cn.rpy、name.rpy
