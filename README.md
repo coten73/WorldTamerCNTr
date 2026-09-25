@@ -5,7 +5,7 @@ World Tamer 简体中文汉化补丁 by Lenten
 > **本仓库只存放发布信息与授权说明，不含汉化文件。**
 > 请到 [**Releases**](../../releases) 页面下载，不要点 Code → Download ZIP。
 
-对应游戏版本：**0.43.0**
+游戏版本：**0.43.0**起
 
 ---
 
